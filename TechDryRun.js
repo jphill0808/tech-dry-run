@@ -6,4 +6,3 @@ var hrr27 = {
 };
 
 // comments
-jacob seo
